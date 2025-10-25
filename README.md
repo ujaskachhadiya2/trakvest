@@ -93,7 +93,7 @@ Create a `.env` file in the backend directory with the following variables:
 ```
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
-EMAIL_USER=	trakvest@gmail.com
+EMAIL_USER=	yourgmail@gmail.com
 EMAIL_PASS=**********************
 JWT_SECRET=your_jwt_secret
 
