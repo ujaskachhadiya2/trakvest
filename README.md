@@ -169,7 +169,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have helped with the development
 - Built with modern web technologies 
-# trakvest
-# trakvest
-# trakvest
-# trakvest
